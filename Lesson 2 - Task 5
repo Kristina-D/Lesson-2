@@ -27,4 +27,4 @@ end
 
 number = number + user_date
 
-puts "the serial numer of date is #{number}."
+puts "The serial numer of date is #{number}."
