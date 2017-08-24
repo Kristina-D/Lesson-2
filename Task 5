@@ -21,6 +21,7 @@ end
 if user_month > 1
 days_in_month.each{|i| 
   while i < user_month - 1
+  number += days_in_month[i]
   i += 1
 	end
 end
